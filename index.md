@@ -13,8 +13,13 @@
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Cat Filteria)](https://github.com/yazyazz/ChemiqueCOM3D/)
+  
+
+...                         |  ...
+:-------------------------:|:-------------------------:
+![](images/filter1Potrait.png)  |  ![](images/filter2Potrait.png)
+
 
 ---
 [Project 3 Title](http://example.com/)
