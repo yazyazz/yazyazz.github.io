@@ -27,7 +27,7 @@
 
 ...                         |  ...
 :-------------------------:|:-------------------------:
-![](images/a1.png)              |  ![](images/a3.png)
+![](images/a1.png) | ![](images/a3.png)
 
 ### Category Name 2
 
