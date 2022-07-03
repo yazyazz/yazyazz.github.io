@@ -6,16 +6,10 @@
 
 [Ontology-Based Mobile Application For Inorganic Chemistry (CHEMIQUE)](https://github.com/yazyazz/ChemiqueCOM3D/)
   
-
-...                         |  ...
-:-------------------------:|:-------------------------:
-![](images/ch1.png)  |  ![](images/ch5.png)
-
-
+![](images/ch1.png)  
 
 [Filteria](https://github.com/yazyazz/Cat-Filteria/)
   
-
 ...                         |  ...
 :-------------------------:|:-------------------------:
 ![](images/filter1Potrait.png)  |  ![](images/filter2Potrait.png)
@@ -23,10 +17,7 @@
 
 [Mood Beatz](https://github.com/yazyazz/Mood_Beatz/)
   
-
-...                         |  ...
-:-------------------------:|:-------------------------:
-![](images/a1.png) | ![](images/a3.png)
+![](images/a3.png)
 
 ### Category Name 2
 
