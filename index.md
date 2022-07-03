@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Ontology-Based Mobile Application For Inorganic Chemistry (CHEMIQUE)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
