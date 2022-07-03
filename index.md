@@ -13,7 +13,7 @@
 
 
 ---
-[Cat Filteria)](https://github.com/yazyazz/Cat-Filteria/)
+[Cat Filteria](https://github.com/yazyazz/Cat-Filteria/)
   
 
 ...                         |  ...
@@ -22,9 +22,12 @@
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Mood Beatz](https://github.com/yazyazz/Cat-Filteria/)
+  
 
+...                         |  ...
+:-------------------------:|:-------------------------:
+![](images/a1.png)  |  ![](images/a3.png)
 ---
 
 ### Category Name 2
