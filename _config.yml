@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/yashrann/">My LinkedIn Profile</a> 
  
-theme: jekyll-theme-minimal
+
 appearance:
   theme_day: minimal
   theme_night: minimal
