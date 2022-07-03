@@ -7,21 +7,10 @@
 [Ontology-Based Mobile Application For Inorganic Chemistry (CHEMIQUE)](https://github.com/yazyazz/ChemiqueCOM3D/)
   
 
-Screenshot one            |  Screenshot two
+...                         |  ...
 :-------------------------:|:-------------------------:
-![](images/ch1.png)  |  ![](images/ch1.png)
+![](images/ch1.png)  |  ![](images/ch4.png)
 
-![alt Image00](./img/ch3.png)
-
-![alt Image00](./img/ch4.png)
-
-![alt Image00](./img/ch5.png)
-
-![alt Image00](./img/ch6.png)
-
-![alt Image00](./img/ch7.png)
-
-![alt Image00](./img/ch8.png)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
