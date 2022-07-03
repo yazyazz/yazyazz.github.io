@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-(/sample_page)
+[Ontology-Based Mobile Application For Inorganic Chemistry (CHEMIQUE)](https://github.com/yazyazz/ChemiqueCOM3D/)
   <a href="https://github.com/yazyazz/ChemiqueCOM3D">[Ontology-Based Mobile Application For Inorganic Chemistry (CHEMIQUE)](/sample_page)</a> 
   <img src="images/ch1.png?raw=true"/>
 
