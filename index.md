@@ -12,8 +12,8 @@
 ![](images/ch1.png)  |  ![](images/ch5.png)
 
 
----
-[Cat Filteria](https://github.com/yazyazz/Cat-Filteria/)
+
+[Filteria](https://github.com/yazyazz/Cat-Filteria/)
   
 
 ...                         |  ...
@@ -21,7 +21,6 @@
 ![](images/filter1Potrait.png)  |  ![](images/filter2Potrait.png)
 
 
----
 [Mood Beatz](https://github.com/yazyazz/Mood_Beatz/)
   
 
@@ -32,7 +31,7 @@
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
----
+
 
 
 
