@@ -14,9 +14,6 @@
 :-------------------------:|:-------------------------:
 ![](images/filter1Potrait.png)  |  ![](images/filter2Potrait.png)
 
-[Mermadia](https://github.com/yazyazz/Mermadia/)
-  
-![](images/m1.png)
 
 [Buiding visualizer](https://github.com/yazyazz/Mood_Beatz/)
   
@@ -28,9 +25,6 @@
 :-------------------------:|:-------------------------:
 ![](images/ar1.png)  |  ![](images/ar2.png)
 
-[Mood Beatz](https://github.com/yazyazz/Mood_Beatz/)
-  
-![](images/a3.png)
 
 ### Other Projects
 
