@@ -25,6 +25,10 @@
 :-------------------------:|:-------------------------:
 ![](images/ar1.png)  |  ![](images/ar2.png)
 
+[Recycle Me](https://github.com/yazyazz/Artwork_App/)
+  
+![](images/recyclev.mp4)  
+
 
 ### Other Projects
 
