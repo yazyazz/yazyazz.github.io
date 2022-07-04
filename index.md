@@ -25,14 +25,30 @@
 :-------------------------:|:-------------------------:
 ![](images/ar1.png)  |  ![](images/ar2.png)
 
-[Recycle Me](https://github.com/yazyazz/Artwork_App/)
-  
-![](images/recyclev.mp4)  
+[Recycle Me](https://github.com/yazyazz/RecycleMe/)
+ ...                         |  ...
+:-------------------------:|:-------------------------:
+![](images/re1.png)  |  ![](images/re2.png)
 
 
 ### Other Projects
 
-- [Project 1 Title](http://example.com/)
+- [Helaviru](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
+
+![](images/histo.png)
+
+- [Riyaviru](https://play.google.com/store/apps/details?id=com.riyaviru&hl=en_CA&gl=US/)
+
+![](images/histo.png)
+
+- [SLT_VFM](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
+
+![](images/histo.png)
+
+- [NMRA](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
+
+![](images/histo.png)
+
 
 
 
