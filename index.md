@@ -32,7 +32,7 @@
   
 ![](images/a3.png)
 
-### Category Name 2
+### Other Projects
 
 - [Project 1 Title](http://example.com/)
 
