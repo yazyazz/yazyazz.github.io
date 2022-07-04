@@ -29,7 +29,7 @@
 
  ...                         |  ...
 :-------------------------:|:-------------------------:
-![](images/re1.png)  |  ![](images/re2.png)
+![](images/re1.png)|![](images/re2.png)
 
 
 ### Other Projects
