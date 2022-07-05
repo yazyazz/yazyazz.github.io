@@ -44,11 +44,11 @@
 
 - [SLT_VFM](https://sri-lanka-telecom-wfm.soft112.com//)
 
-![](images/screen2.png)
+![](images/slt.png)
 
 - [NMRA](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
 
-![](images/histo.png)
+![](images/nmra.png)
 
 
 
