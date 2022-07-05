@@ -51,13 +51,12 @@
 :-------------------------:|:-------------------------:|:------------------------
 ![](images/riyav1.png)|![](images/riyav2.png)|  ![](images/riyav3.png)
 
+
 - [SLT_VFM](https://sri-lanka-telecom-wfm.soft112.com//)
 
 ![](images/slt.png)
 
-- [NMRA](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
 
-![](images/nmra.png)
 
 
 
