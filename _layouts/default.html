@@ -28,17 +28,17 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a>
-        <style> 
-div {
-  width: 100px;
-  height: 100px;
-  background-color: red;
-  position: relative;
-  animation-name: example;
-  animation-duration: 4s;
-  animation-iteration-count: infinite;
-}
+        <p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a></p>
+          <style> 
+                div {
+                    width: 100px;
+                    height: 100px;
+                    background-color: red;
+                    position: absoilute;
+                    animation-name: example;
+                    animation-duration: 4s;
+                    animation-iteration-count: 3;
+                    }
 
 @keyframes example {
   0%   {background-color:red; left:0px; top:0px;}
@@ -47,7 +47,7 @@ div {
   75%  {background-color:green; left:0px; top:200px;}
   100% {background-color:red; left:0px; top:0px;}
 }
-</style></p>
+</style>
         {% endif %}
 
         {% if site.show_downloads %}
