@@ -47,7 +47,7 @@
 
 - [Riyaviru](https://play.google.com/store/apps/details?id=com.riyaviru&hl=en_CA&gl=US/)
 
-...                         |  ...                       |  ...
+...                         |  ...                       |        ...
 :-------------------------:|:-------------------------:|:------------------------
 ![](images/riyav1.png)|![](images/riyav2.png)|  ![](images/riyav3.png)
 
