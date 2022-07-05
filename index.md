@@ -4,6 +4,31 @@
 
 ### Research Projects
 
+[Recycle Me](https://github.com/yazyazz/RecycleMe/)
+
+ ...                         |  ...
+:-------------------------:|:-------------------------:
+![](images/re1.png)|![](images/re2.png)
+
+
+- [Helaviru](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
+
+...                         |  ...
+:-------------------------:|:-------------------------:
+![](images/he.png)  |  ![](images/he1.png)
+
+...                         |  ...
+:-------------------------:|:-------------------------:
+![](images/he2.png)  |  ![](images/he3.png)
+
+
+- [Riyaviru](https://play.google.com/store/apps/details?id=com.riyaviru&hl=en_CA&gl=US/)
+
+...                         |  ...                       |        ...
+:-------------------------:|:-------------------------:|:------------------------
+![](images/riyav1.png)|![](images/riyav2.png)|  ![](images/riyav3.png)
+
+
 [Ontology-Based Mobile Application For Inorganic Chemistry (CHEMIQUE)](https://github.com/yazyazz/ChemiqueCOM3D/)
   
 ...                         |  ...
@@ -26,34 +51,6 @@
 ...                         |  ...                       
 :-------------------------:|:-------------------------:|
 ![](images/ar1.png)|![](images/ar2.png)| 
-
-[Recycle Me](https://github.com/yazyazz/RecycleMe/)
-
- ...                         |  ...
-:-------------------------:|:-------------------------:
-![](images/re1.png)|![](images/re2.png)
-
-
-### Other Projects
-
-- [Helaviru](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
-
-...                         |  ...
-:-------------------------:|:-------------------------:
-![](images/he.png)  |  ![](images/he1.png)
-
-...                         |  ...
-:-------------------------:|:-------------------------:
-![](images/he2.png)  |  ![](images/he3.png)
-
-
-- [Riyaviru](https://play.google.com/store/apps/details?id=com.riyaviru&hl=en_CA&gl=US/)
-
-...                         |  ...                       |        ...
-:-------------------------:|:-------------------------:|:------------------------
-![](images/riyav1.png)|![](images/riyav2.png)|  ![](images/riyav3.png)
-
-
 
 
 
