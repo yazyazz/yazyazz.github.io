@@ -52,9 +52,7 @@
 ![](images/riyav1.png)|![](images/riyav2.png)|  ![](images/riyav3.png)
 
 
-- [SLT_VFM](https://sri-lanka-telecom-wfm.soft112.com//)
 
-![](images/slt.png)
 
 
 
