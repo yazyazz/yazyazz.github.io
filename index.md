@@ -42,7 +42,7 @@
 
 ...                         |  ...
 :-------------------------:|:-------------------------:
-![](images/he2.png)  |  ![](images/he2.png)
+![](images/he2.png)  |  ![](images/he3.png)
 
 
 - [Riyaviru](https://play.google.com/store/apps/details?id=com.riyaviru&hl=en_CA&gl=US/)
