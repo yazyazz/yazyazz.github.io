@@ -36,15 +36,15 @@
 
 - [Helaviru](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
 
-![](images/histo.png)
+![](images/he.png)
 
 - [Riyaviru](https://play.google.com/store/apps/details?id=com.riyaviru&hl=en_CA&gl=US/)
 
-![](images/histo.png)
+![](images/ri.png)
 
-- [SLT_VFM](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
+- [SLT_VFM](https://sri-lanka-telecom-wfm.soft112.com//)
 
-![](images/histo.png)
+![](images/screen2.png)
 
 - [NMRA](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
 
