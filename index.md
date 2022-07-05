@@ -8,7 +8,7 @@
   
 ...                         |  ...
 :-------------------------:|:-------------------------:
-![](images/ch1.png) | ![](images/ch4.png)
+![](images/ch1.png)       |       ![](images/ch4.png)
 
 [Filteria](https://github.com/yazyazz/Cat-Filteria/)
   
