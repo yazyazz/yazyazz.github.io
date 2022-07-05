@@ -6,7 +6,9 @@
 
 [Ontology-Based Mobile Application For Inorganic Chemistry (CHEMIQUE)](https://github.com/yazyazz/ChemiqueCOM3D/)
   
-![](images/ch1.png)  
+...                         |  ...
+:-------------------------:|:-------------------------:
+![](images/ch1.png)  |  ![](ch4.png)
 
 [Filteria](https://github.com/yazyazz/Cat-Filteria/)
   
