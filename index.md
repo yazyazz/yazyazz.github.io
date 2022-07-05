@@ -47,7 +47,9 @@
 
 - [Riyaviru](https://play.google.com/store/apps/details?id=com.riyaviru&hl=en_CA&gl=US/)
 
-![](images/ri.png)
+...                         |  ...
+:-------------------------:|:-------------------------:|:------------------------
+![](images/riyav1.png)|![](images/riyav2.png)|  ![](images/riyav3.png)
 
 - [SLT_VFM](https://sri-lanka-telecom-wfm.soft112.com//)
 
