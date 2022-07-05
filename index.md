@@ -36,7 +36,14 @@
 
 - [Helaviru](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
 
-![](images/he.png)
+...                         |  ...
+:-------------------------:|:-------------------------:
+![](images/he.png)  |  ![](images/he1.png)
+
+...                         |  ...
+:-------------------------:|:-------------------------:
+![](images/he2.png)  |  ![](images/he2.png)
+
 
 - [Riyaviru](https://play.google.com/store/apps/details?id=com.riyaviru&hl=en_CA&gl=US/)
 
