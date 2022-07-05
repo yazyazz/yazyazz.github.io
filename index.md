@@ -22,10 +22,10 @@
 ![](images/histo.png)
 
 [Artino](https://github.com/yazyazz/Artwork_App/)
-  
-...                         |  ...
-:-------------------------:|:-------------------------:
-![](images/ar1.png)  |  ![](images/ar2.png)
+
+...                         |  ...                       |        ...
+:-------------------------:|:-------------------------:|:------------------------
+![](images/ar1.png)|![](images/ar2.png)|  ![](images/ar3.png)
 
 [Recycle Me](https://github.com/yazyazz/RecycleMe/)
 
