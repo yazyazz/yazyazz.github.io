@@ -1,13 +1,24 @@
 ## Welcome to My Portfolio of Projects!!!!
 ![](images/rocket.gif) 
-![](images/result.gif) 
-![](images/re2.gif) 
-![](images/re3.gif) 
-![](images/re4.gif) 
-![](images/re5.gif) 
-
 
 ---
+
+![](images/re5.gif) 
+
+ ...                         |  ...
+:-------------------------:|:-------------------------:
+![](images/result.gif) | ![](images/re2.gif)
+
+- Framework/Libraries : ReactJS, Redux, NodeJS, NextJS, jQuery, Spring, .NET
+- Front end : HTML5, CSS/SCSS, Material UI, Bootstrap, AJAX, Ant Design, NativeBase
+- Testing : Mocha, Junit, Jest, Selenium
+- Database : MySQL, PostgreSQL, MongoDB
+- Cloud : AWS, Microsoft Azure, Google Firebase
+- DevOps : Git, Bitbucket, Docker, Kubernetes, Jenkins
+- IDE : Eclipse, NetBeans, Sublime, VS code, PyCharm
+- Process : Object Oriented Design/OOPs, Distributed system design/architecture, Scrum, Kanban,
+Agile development
+
 
 - [Recycle Me](https://github.com/yazyazz/RecycleMe/)
 
