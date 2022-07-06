@@ -28,20 +28,7 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-         <style> 
-                div {
-  width: 100px;
-  height:100px;
-  background-color: #B0E0E6;
-  animation-name: example;
-  animation-duration: 16s;
-}
-
-@keyframes example {
-  from {background-color: #87CEFA;}
-  to {background-color: #F0FFFF;}
-}
-</style>
+         
         <p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a></p>
          
         {% endif %}
@@ -55,7 +42,20 @@
         {% endif %}
       </header>
       <section>
+       <style> 
+                div {
+  width: 100px;
+  height:100px;
+  background-color: #B0E0E6;
+  animation-name: example;
+  animation-duration: 16s;
+}
 
+@keyframes example {
+  from {background-color: #87CEFA;}
+  to {background-color: #F0FFFF;}
+}
+</style>
       {{ content }}
 
       </section>
