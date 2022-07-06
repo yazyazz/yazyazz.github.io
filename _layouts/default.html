@@ -42,7 +42,11 @@
         {% endif %}
       </header>
       <section>
-       <style> 
+    
+      {{ content }}
+  
+      </section>
+         <style> 
                 div {
   width: 100px;
   height:100px;
@@ -56,9 +60,6 @@
   to {background-color: #F0FFFF;}
 }
 </style>
-      {{ content }}
-
-      </section>
       <footer>
         {% if site.github.is_project_page %}
    
