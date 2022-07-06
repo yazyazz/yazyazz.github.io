@@ -1,13 +1,5 @@
 ## Welcome to My Portfolio!!!!
 
----
-
-- [Recycle Me](https://github.com/yazyazz/RecycleMe/)
-
- ...                         |  ...
-:-------------------------:|:-------------------------:
-![](images/re1.png)|![](images/re2.png)
-
 
 - [Helaviru](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
 
@@ -18,6 +10,12 @@
 ...                         |  ...
 :-------------------------:|:-------------------------:
 ![](images/he2.png)  |  ![](images/he3.png)
+
+- [Recycle Me](https://github.com/yazyazz/RecycleMe/)
+
+ ...                         |  ...
+:-------------------------:|:-------------------------:
+![](images/re1.png)|![](images/re2.png)
 
 
 - [Riyaviru](https://play.google.com/store/apps/details?id=com.riyaviru&hl=en_CA&gl=US/)
