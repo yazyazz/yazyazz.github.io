@@ -4,8 +4,6 @@
 
 ---
 
-### Research Projects
-
 [Recycle Me](https://github.com/yazyazz/RecycleMe/)
 
  ...                         |  ...
