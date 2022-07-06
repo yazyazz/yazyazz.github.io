@@ -1,6 +1,18 @@
 ## Welcome to My Portfolio!!!!
 ![](images/rocket.gif)
 
+- [Recycle Me](https://github.com/yazyazz/RecycleMe/)
+
+ ...                         |  ...
+:-------------------------:|:-------------------------:
+![](images/re1.png)|![](images/re2.png)
+
+[Ontology-Based Application For Inorganic Chemistry (CHEMIQUE)](https://github.com/yazyazz/ChemiqueCOM3D/)
+  
+...                         |  ...
+:-------------------------:|:-------------------------:
+![](images/ch1.png)       |       ![](images/ch4.png)
+
 
 - [Helaviru](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
 
@@ -12,12 +24,6 @@
 :-------------------------:|:-------------------------:
 ![](images/he2.png)  |  ![](images/he3.png)
 
-- [Recycle Me](https://github.com/yazyazz/RecycleMe/)
-
- ...                         |  ...
-:-------------------------:|:-------------------------:
-![](images/re1.png)|![](images/re2.png)
-
 
 - [Riyaviru](https://play.google.com/store/apps/details?id=com.riyaviru&hl=en_CA&gl=US/)
 
@@ -25,12 +31,6 @@
 :-------------------------:|:-------------------------:|:------------------------
 ![](images/riyav1.png)|![](images/riyav2.png)|  ![](images/riyav3.png)
 
-
-[Ontology-Based Application For Inorganic Chemistry (CHEMIQUE)](https://github.com/yazyazz/ChemiqueCOM3D/)
-  
-...                         |  ...
-:-------------------------:|:-------------------------:
-![](images/ch1.png)       |       ![](images/ch4.png)
 
 [Filteria](https://github.com/yazyazz/Cat-Filteria/)
   
