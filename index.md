@@ -1,6 +1,8 @@
 ## Welcome to My Portfolio of Projects!!!!
 ![](images/rocket.gif)
 
+---
+
 - [Recycle Me](https://github.com/yazyazz/RecycleMe/)
 
  ...                         |  ...
