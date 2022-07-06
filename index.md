@@ -4,7 +4,7 @@
 
 ---
 
-[Recycle Me](https://github.com/yazyazz/RecycleMe/)
+- [Recycle Me](https://github.com/yazyazz/RecycleMe/)
 
  ...                         |  ...
 :-------------------------:|:-------------------------:
@@ -29,7 +29,7 @@
 ![](images/riyav1.png)|![](images/riyav2.png)|  ![](images/riyav3.png)
 
 
-[Ontology-Based Mobile Application For Inorganic Chemistry (CHEMIQUE)](https://github.com/yazyazz/ChemiqueCOM3D/)
+[Ontology-Based Application For Inorganic Chemistry (CHEMIQUE)](https://github.com/yazyazz/ChemiqueCOM3D/)
   
 ...                         |  ...
 :-------------------------:|:-------------------------:
