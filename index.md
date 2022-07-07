@@ -71,17 +71,19 @@ Riyaviru Delivery App is designed for the riders who wish to register and contri
 
 
 [Filteria](https://github.com/yazyazz/Cat-Filteria/)
+React native application with Different Filters applied to an image on the top, when user select filter from the horizontal scroll list below in the app.
   
 ...                         |  ...
 :-------------------------:|:-------------------------:
 ![](images/filter1Potrait.png)  |  ![](images/filter2Potrait.png)
 
 
-[Buiding visualizer](https://github.com/yazyazz/Mood_Beatz/)
-  
+[Buiding visualizer](https://github.com/yazyazz/hispro/)
+
 ![](images/histo.png)
 
 [Artino](https://github.com/yazyazz/Artwork_App/)
+Making an interactive android application in the theme of artworks where users can get information about artworks.
 
 ...                         |  ...                       
 :-------------------------:|:-------------------------:|
