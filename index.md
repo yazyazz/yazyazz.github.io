@@ -31,6 +31,7 @@
  
  Non-biological waste collector is a mobile application that coordinates the vendors of these waste items
  and as well as customers who provide waste items and prediction of the amount of waste that would be collected from specific areas. 
+ 
  Technologies: Android, Java, Firebase, Linear Regression Algorithm, Python
 
  ...                         |  ...
@@ -45,7 +46,9 @@
 
 
 [Helaviru](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
+
 Cloud-based Digital Marketplace that facilitates trading activities of Agro-Produce and commodities.
+
 Technologies: React Native, REST API, Spring MVC
 
 
@@ -59,6 +62,8 @@ Technologies: React Native, REST API, Spring MVC
 
 
 [Riyaviru](https://play.google.com/store/apps/details?id=com.riyaviru&hl=en_CA&gl=US/)
+
+Riyaviru Delivery App is designed for the riders who wish to register and contribute for the Helaviru Agro-commodities platform as delivery riders by simply registering via the Riyaviru App. Riders could earn money by delivering goods using their own vehicle across Sri Lanka.
 
 ...                         |  ...                       |        ...
 :-------------------------:|:-------------------------:|:------------------------
