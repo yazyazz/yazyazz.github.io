@@ -6,7 +6,6 @@
 
 ![](images/re5.gif) 
 
-
 ![](images/result.gif) 
 
 - Mobile Technologies : Android, React Native, iOS, Flutter
