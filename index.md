@@ -11,7 +11,7 @@
 
 ![](images/result.gif) 
 
-- Mobile : Android, React Native, iOS, Flutter
+- Mobile Technologies : Android, React Native, iOS, Flutter
 - Framework/Libraries : ReactJS, Redux, NodeJS, NextJS, jQuery, Spring, .NET
 - Front end : HTML5, CSS/SCSS, Material UI, Bootstrap, AJAX, Ant Design, NativeBase
 - Testing : Mocha, Junit, Jest, Selenium
