@@ -24,7 +24,7 @@
   
   ------
   
-  ![](images/result(3).gif) 
+![](images/cu.gif) 
   
   
  [Recycle Me](https://github.com/yazyazz/RecycleMe/)
