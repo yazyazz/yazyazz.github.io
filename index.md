@@ -28,6 +28,7 @@
   
   
  [Recycle Me](https://github.com/yazyazz/RecycleMe/)
+ 
  Non-biological waste collector is a mobile application that coordinates the vendors of these waste items
  and as well as customers who provide waste items and prediction of the amount of waste that would be collected from specific areas. 
  Technologies: Android, Java, Firebase, Linear Regression Algorithm, Python
@@ -45,7 +46,7 @@
 
 [Helaviru](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
 Cloud-based Digital Marketplace that facilitates trading activities of Agro-Produce and commodities.
-  Technologies: React Native, REST API, Spring MVC
+Technologies: React Native, REST API, Spring MVC
 
 
 ...                         |  ...
@@ -57,7 +58,7 @@ Cloud-based Digital Marketplace that facilitates trading activities of Agro-Prod
 ![](images/he2.png)  |  ![](images/he3.png)
 
 
-- [Riyaviru](https://play.google.com/store/apps/details?id=com.riyaviru&hl=en_CA&gl=US/)
+[Riyaviru](https://play.google.com/store/apps/details?id=com.riyaviru&hl=en_CA&gl=US/)
 
 ...                         |  ...                       |        ...
 :-------------------------:|:-------------------------:|:------------------------
