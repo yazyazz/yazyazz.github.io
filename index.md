@@ -1,5 +1,5 @@
 
-![](images/wel.gif)
+![](images/welcome.gif)
 ![](images/rocket.gif) 
 
 ---
