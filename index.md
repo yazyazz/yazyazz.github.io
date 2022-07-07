@@ -1,7 +1,4 @@
-
-
- 
-  ### Welcome to My Portfolio of Projects!!!!
+### Welcome to My Portfolio of Projects!!!!
 ![](images/rocket.gif) 
 
 ---
