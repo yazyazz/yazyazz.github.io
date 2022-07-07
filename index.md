@@ -80,6 +80,8 @@ React native application with Different Filters applied to an image on the top, 
 
 [Buiding visualizer](https://github.com/yazyazz/hispro/)
 
+A Visulizer to detect vertexea, edges column wise and row wise and other image processing manipulations used in planning phase of construction of commercial buildings. 
+
 ![](images/histo.png)
 
 [Artino](https://github.com/yazyazz/Artwork_App/)
