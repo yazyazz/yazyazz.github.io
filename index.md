@@ -70,6 +70,9 @@ Technologies: React Native, REST API, Spring MVC
 
 Riyaviru Delivery App is designed for the riders who wish to register and contribute for the Helaviru Agro-commodities platform as delivery riders by simply registering via the Riyaviru App. Riders could earn money by delivering goods using their own vehicle across Sri Lanka.
 
+
+Technologies: React Native, REST API.
+
 ...                         |  ...                       |        ...
 :-------------------------:|:-------------------------:|:------------------------
 ![](images/riyav1.png)|![](images/riyav2.png)|  ![](images/riyav3.png)
@@ -77,11 +80,15 @@ Riyaviru Delivery App is designed for the riders who wish to register and contri
 
 ### [Filteria](https://github.com/yazyazz/Cat-Filteria/)
 
-React native application with Different Filters applied to an image on the top, when user select filter from the horizontal scroll list below in the app.
+Different filters are applied to an image on the top when the user selects a filter from the horizontal scroll list below in the app.
+
+Technologies: React native, Image Processing
   
 ...                         |  ...
 :-------------------------:|:-------------------------:
 ![](images/filter1Potrait.png)  |  ![](images/filter2Potrait.png)
+
+
 
 
 ### [Buiding visualizer](https://github.com/yazyazz/hispro/)
@@ -96,7 +103,7 @@ Technologies : C#, .NET.
 
 Making an interactive android application in the theme of artworks where users can get information about artworks.
 
-Technologies: Android, Firebase.
+Technologies: Android, Java, Firebase.
 
 ...                         |  ...                       
 :-------------------------:|:-------------------------:|
