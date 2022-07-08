@@ -54,7 +54,7 @@ Whitepaper: https://bit.ly/3dwOGac
 
 Cloud-based Digital Marketplace that facilitates trading activities of Agro-Produce and commodities.
 
-Technologies: React Native, REST API, Spring MVC
+Technologies: React Native, REST API, Spring MVC.
 
 
 ...                         |  ...
@@ -82,13 +82,11 @@ Technologies: React Native, REST API.
 
 Different filters are applied to an image on the top when the user selects a filter from the horizontal scroll list below in the app.
 
-Technologies: React native, Image Processing
+Technologies: React native, Image Processing.
   
 ...                         |  ...
 :-------------------------:|:-------------------------:
 ![](images/filter1Potrait.png)  |  ![](images/filter2Potrait.png)
-
-
 
 
 ### [Buiding visualizer](https://github.com/yazyazz/hispro/)
@@ -96,7 +94,6 @@ Technologies: React native, Image Processing
 A Visulizer to detect vertexes, edges column wise and row wise and other image processing manipulations used in planning phase of construction of commercial buildings.
 
 Technologies : C#, .NET.
-
 ![](images/histo.png)
 
 ### [Artino](https://github.com/yazyazz/Artwork_App/)
