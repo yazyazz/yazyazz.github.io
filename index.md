@@ -34,9 +34,7 @@
 :-------------------------:|:-------------------------:
 ![](images/re1.png)|![](images/re2.png)
 
- ![](images/recycleMe.gif) 
- 
-   ------
+ ![](images/recycleMe.gif)
  
 ### [Ontology-Based Application For Inorganic Chemistry (CHEMIQUE)](https://github.com/yazyazz/ChemiqueCOM3D/)
 
