@@ -1,5 +1,5 @@
 
-![](images/Hi.gif)
+
 ![](images/rocketn.gif) 
 
 ---
