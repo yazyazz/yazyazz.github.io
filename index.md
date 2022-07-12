@@ -22,8 +22,7 @@
   ------
   
 ![](images/cu.gif) 
-  
-  
+
 ### [Recycle Me](https://github.com/yazyazz/RecycleMe/)
  
  Non-biological waste collector is a mobile application that coordinates the vendors of these waste items
