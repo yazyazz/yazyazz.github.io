@@ -8,14 +8,14 @@
 
 ![](images/result.gif) 
 
-- Mobile Technologies : Android, React Native, iOS, Flutter
-- Framework/Libraries : ReactJS, Redux, NodeJS, NextJS, jQuery, Spring, .NET
-- Front end : HTML5, CSS/SCSS, Material UI, Bootstrap, AJAX, Ant Design, NativeBase
-- Testing : Mocha, Junit, Jest, Selenium
-- Database : MySQL, PostgreSQL, MongoDB
-- Cloud : AWS, Microsoft Azure, Google Firebase
-- DevOps : Git, Bitbucket, Docker, Kubernetes, Jenkins
-- IDE : Eclipse, NetBeans, Sublime, VS code, PyCharm
+- Mobile Technologies : Android, React Native, iOS, Flutter.
+- Framework/Libraries : ReactJS, Redux, NodeJS, NextJS, jQuery, Spring, .NET.
+- Front end : HTML5, CSS/SCSS, Material UI, Bootstrap, AJAX, Ant Design, NativeBase.
+- Testing : Mocha, Junit, Jest, Selenium.
+- Database : MySQL, PostgreSQL, MongoDB.
+- Cloud : AWS, Microsoft Azure, Google Firebase.
+- DevOps : Git, Bitbucket, Docker, Kubernetes, Jenkins.
+- IDE : Eclipse, NetBeans, Sublime, VS code, PyCharm.
 - Process : Object Oriented Design/OOPs, Distributed system design/architecture, Scrum, Kanban,
   Agile development
   
