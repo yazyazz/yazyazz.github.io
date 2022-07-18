@@ -24,7 +24,7 @@
 
 ### [HeyTaxi](https://github.com/yazyazz/Hey-Taxi/)
 
-Taxi Reservation App which allows users to reserve vehicles based on their starting location and destination using Google Maps API.
+Taxi Reservation App which allows users to reserve a vehicle based on their starting location and destination.Hey Taxi app uses Google Maps API and Google Autocomplete to provide a better service to the end user in a reliable way.
 
 Technologies: React Native, Redux, Tailwind CSS, Google Maps API, Google Autocomplete.
 
