@@ -4,7 +4,7 @@
 
 ---
 
-## Skiils
+## Skills
 
 - Programming Languages : JavaScript, TypeScript, Java, Python, C, C#
 - Mobile Technologies : Android, React Native, iOS, Flutter.
