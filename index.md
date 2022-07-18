@@ -1,6 +1,6 @@
 
 
-![](images/ro.gif) 
+Welcome to My Portfolio!
 
 ---
 
@@ -47,6 +47,16 @@ Whitepaper: https://bit.ly/3dwOGac
 ...                         |  ...
 :-------------------------:|:-------------------------:
 ![](images/ch1.png)       |       ![](images/ch4.png)
+
+### [HeyTaxi](https://github.com/yazyazz/Hey-Taxi/)
+
+App designed to Faciltate the Trasportation needs of people.
+
+Technologies: ,React Native, Redux, Tailwind CSS , Google Cloud Platform, Google Autocomplet
+
+...                         |  ...                       |        ...
+:-------------------------:|:-------------------------:|:------------------------
+![](images/tax1.jpg)|![](images/tax2.jpg)|  ![](images/tax3.jpg)
 
 
 ### [Helaviru](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
