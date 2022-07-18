@@ -21,7 +21,7 @@
   ------
   
   
-## Projects 
+## Projects.
 
  ###  [HeyTaxi](https://github.com/yazyazz/Hey-Taxi/)
 
