@@ -21,9 +21,19 @@ Welcome to My Portfolio!
   
   ------
   
-![](images/cu.gif) 
+### Projects
 
-[Recycle Me](https://github.com/yazyazz/RecycleMe/)
+### [HeyTaxi](https://github.com/yazyazz/Hey-Taxi/)
+
+App designed to Faciltate the Trasportation needs of people.
+
+Technologies: React Native, Redux, Tailwind CSS , Google Cloud Platform, Google Autocomplete.
+
+...                         |  ...                       |        ...
+:-------------------------:|:-------------------------:|:------------------------
+![](images/tax1.jpg)|![](images/tax2.jpg)|  ![](images/tax3.jpg)
+
+### [Recycle Me](https://github.com/yazyazz/RecycleMe/)
  
  Non-biological waste collector is a mobile application that coordinates the vendors of these waste items
  and as well as customers who provide waste items and prediction of the amount of waste that would be collected from specific areas. 
@@ -47,17 +57,6 @@ Whitepaper: https://bit.ly/3dwOGac
 ...                         |  ...
 :-------------------------:|:-------------------------:
 ![](images/ch1.png)       |       ![](images/ch4.png)
-
-### [HeyTaxi](https://github.com/yazyazz/Hey-Taxi/)
-
-App designed to Faciltate the Trasportation needs of people.
-
-Technologies: React Native, Redux, Tailwind CSS , Google Cloud Platform, Google Autocomplete.
-
-...                         |  ...                       |        ...
-:-------------------------:|:-------------------------:|:------------------------
-![](images/tax1.jpg)|![](images/tax2.jpg)|  ![](images/tax3.jpg)
-
 
 ### [Helaviru](https://play.google.com/store/apps/details?id=com.helavirufarmermobi&hl=en_CA&gl=US/)
 
