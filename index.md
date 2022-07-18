@@ -1,6 +1,6 @@
 
 
-Welcome to My Portfolio!
+### Welcome to My Portfolio!
 
 ---
 
@@ -43,7 +43,6 @@ Technologies: React Native, Redux, Tailwind CSS , Google Cloud Platform, Google 
 :-------------------------:|:-------------------------:
 ![](images/re1.png)|![](images/re2.png)
 
- ![](images/recycleMe.gif)
  
 ### [Ontology-Based Application For Inorganic Chemistry (CHEMIQUE)](https://github.com/yazyazz/ChemiqueCOM3D/)
 
