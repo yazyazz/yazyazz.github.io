@@ -4,7 +4,7 @@
 
 ---
 
-## Skills.
+## Skills
 
 - Programming Languages : JavaScript, TypeScript, Java, Python, C, C#
 - Mobile Technologies : Android, React Native, iOS, Flutter
@@ -21,7 +21,7 @@
   ------
   
   
-## Projects.
+## Projects
 
 ###  [HeyTaxi](https://github.com/yazyazz/Hey-Taxi/)
 
@@ -49,7 +49,7 @@ Technologies: React Native, Redux, Tailwind CSS, Google Maps API, Google Autocom
 
 An android application that allows the user to perform basic chemical bonding, inorganic chemical reactions, and get a three-dimensional view of chemical bonds and resultants of chemical reactions and chemical equation balancing. The additional section which contains basic inorganic chemistry questions and answers will allow the user to evaluate their knowledge on the subject.
 
-Technologies: Python, Flask, REST, Android, Spring Boot, Machine Learning, Image Processing(OCR)
+Technologies: Python, Flask, REST, Android, Spring Boot, Machine Learning, Image Processing(OCR).
 
 Whitepaper: https://bit.ly/3dwOGac
   
