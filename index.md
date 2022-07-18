@@ -1,6 +1,6 @@
 
 
-### :clap: Welcome to My Portfolio 
+# Welcome to My Portfolio.
 
 ---
 
@@ -20,7 +20,7 @@
   
   ------
   
-### Projects
+## Projects
 
 ### [HeyTaxi](https://github.com/yazyazz/Hey-Taxi/)
 
