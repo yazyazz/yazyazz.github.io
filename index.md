@@ -30,7 +30,7 @@ Technologies: React Native, Redux, Tailwind CSS , Google Cloud Platform, Google 
 
 ...                         |  ...                       |        ...
 :-------------------------:|:-------------------------:|:------------------------
-![](images/tax1.jpg)|![](images/tax2.jpg)|  ![](images/tax3.jpg)
+![](images/hey1.png)|![](images/hey2.png)|  ![](images/hey3.png)
 
 ### [Recycle Me](https://github.com/yazyazz/RecycleMe/)
  
