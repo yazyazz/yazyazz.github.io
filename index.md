@@ -1,10 +1,10 @@
 
 
-## Welcome to My Portfolio.
+## Welcome to My Portfolio. :iphone:
 
 ---
 
-## Skills
+## Skills :computer: 
 
 - Programming Languages : JavaScript, TypeScript, Java, Python, C, C#.
 - Mobile Technologies : Android, React Native, iOS, Flutter.
@@ -20,7 +20,7 @@
   
   ------
   
-## Projects
+## Projects :bulb:
 
 ### [HeyTaxi](https://github.com/yazyazz/Hey-Taxi/)
 
