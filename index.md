@@ -52,7 +52,7 @@ Whitepaper: https://bit.ly/3dwOGac
 
 App designed to Faciltate the Trasportation needs of people.
 
-Technologies: ,React Native, Redux, Tailwind CSS , Google Cloud Platform, Google Autocomplet
+Technologies: React Native, Redux, Tailwind CSS , Google Cloud Platform, Google Autocomplete.
 
 ...                         |  ...                       |        ...
 :-------------------------:|:-------------------------:|:------------------------
