@@ -1,6 +1,6 @@
 
 
-# Welcome to My Portfolio.
+## Welcome to My Portfolio.
 
 ---
 
@@ -24,9 +24,9 @@
 
 ### [HeyTaxi](https://github.com/yazyazz/Hey-Taxi/)
 
-Taxi Reservation App which allows users to reserve a vehicles based on their starting location and destination using Google Maps Api.
+Taxi Reservation App which allows users to reserve vehicles based on their starting location and destination using Google Maps API.
 
-Technologies: React Native, Redux, Tailwind CSS , Google Cloud Platform, Google Autocomplete.
+Technologies: React Native, Redux, Tailwind CSS, Google Maps API, Google Autocomplete.
 
 ...                         |  ...                       |        ...
 :-------------------------:|:-------------------------:|:------------------------
