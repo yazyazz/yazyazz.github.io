@@ -6,8 +6,7 @@ Welcome to My Portfolio!
 
 ![](images/re5.gif) 
 
-![](images/result.gif) 
-
+- Programming Language : JavaScript, TypeScript, Java, Python, C, C#
 - Mobile Technologies : Android, React Native, iOS, Flutter.
 - Framework/Libraries : ReactJS, Redux, NodeJS, NextJS, jQuery, Spring, .NET.
 - Front end : HTML5, CSS/SCSS, Material UI, Bootstrap, AJAX, Ant Design, NativeBase.
