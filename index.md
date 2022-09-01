@@ -6,17 +6,20 @@
 
 ## Skills
 
-- Programming Languages : JavaScript, TypeScript, Java, Python, C, C#
-- Mobile Technologies : Android, React Native, iOS, Flutter
-- Framework/Libraries : ReactJS, Redux, NodeJS, NextJS, jQuery, Spring, .NET
-- Front end : HTML5, CSS/SCSS, Material UI, Bootstrap, AJAX, Ant Design, NativeBase
-- Testing : Mocha, Junit, Jest, Selenium
-- Database : MySQL, PostgreSQL, MongoDB
-- Cloud : AWS, Microsoft Azure, Google Firebase
-- DevOps : Git, Bitbucket, Docker, Kubernetes, Jenkins
-- IDE : Eclipse, NetBeans, Sublime, VS code, PyCharm
-- Process : Object Oriented Design/OOPs, Distributed system design/architecture, Scrum, Kanban,
-  Agile development
+- Programming Languages : JavaScript(js), TypeScript, Java, Python, C, C++, C#, Racket.
+- Mobile Technologies : React Native, Android, Flutter,  iOS.
+- Framework/Libraries : ReactJS, Redux, Flux, NodeJS, Angular, Webpack, Babel, GraphQL.
+- Front end : HTML5, CSS/SCSS, Material UI, Bootstrap, Ant Design, NativeBase, XML, XAML.
+- Testing : Mocha, Junit, Jest, Selenium.
+- Database : MySQL, PostgreSQL, MongoDB, NoSQL.
+- Cloud Infrastructure : AWS, Microsoft Azure, Google Firebase.
+- DevOps and Microservices : AWS, Heroku, Docker, Kubernetes, Jenkins, CI / CD.
+- Version Control System: Git, SVN, Gitlab, Bitbucket.
+- IDE : Eclipse, NetBeans, Sublime, VS code, PyCharm, Microsoft Excel, Word, PowerPoint.
+- Design : UI / UX and responsive design, Figma, Processing, Adobe photoshop, Premiere Pro.
+- Process : Object Oriented Design/OOPs, Distributed system design/architecture, Scrum, Kanban, Agile development, Problem solving, Gaming (Unreal  engine, CryEngine).
+- Personal Skills : Interpersonal skills, Good Oral and written communication, Leadership skills.
+
   
   ------
   
