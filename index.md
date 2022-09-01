@@ -18,7 +18,7 @@
 - IDE : Eclipse, NetBeans, Sublime, VS code, PyCharm, Microsoft Excel, Word, PowerPoint.
 - Design : UI / UX and responsive design, Figma, Processing, Adobe photoshop, Premiere Pro.
 - Process : Object Oriented Design/OOPs, Distributed system design/architecture, Scrum, Kanban, Agile development, Problem solving, Gaming (Unreal  engine, CryEngine).
-- Personal Skills : Interpersonal skills, Good Oral and written communication, Leadership skills.
+- Personal Skills : Interpersonal skills, Content writing, Leadership skills.
 
   
   ------
